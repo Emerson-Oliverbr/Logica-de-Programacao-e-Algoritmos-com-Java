@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int N = sc.nextInt();
+		
+		int inicio = 1;
+		
+		for(int index=1; index<=N; index +=1) {
+			int segundo = inicio + 1;
+			int terceiro = inicio + 2;
+			System.out.printf("%d %d %d PUM%n", inicio, segundo, terceiro);
+
+			inicio = inicio + 4;
+		}
+		
+		sc.close();
+	}
+
+}
