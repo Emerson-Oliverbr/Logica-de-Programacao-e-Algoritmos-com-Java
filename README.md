@@ -2,7 +2,12 @@
 
 ## Fonte dos Exercícios
 
-Os exercícios que abrangem desde a estrutura sequencial até as estruturas repetitivas são provenientes do site [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt%2F).
+Os exercícios que abrangem desde a estrutura sequencial até as estruturas repetitivas são provenientes do site [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt%2F). 
+
+## Informações Adicionais
+
+Existe outros arquivos README com os exercícios das seções **vetores** e **matrizes**.
+
 
 ## O que Vou Aprender
 
